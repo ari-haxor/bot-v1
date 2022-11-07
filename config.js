@@ -30,19 +30,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = '-'
+global.sig = 'https://www.instagram.com/array.gans'
 global.sgh = 'https://github.com/Array-Gans' //github
-global.sgc = '-' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/LXOzDh2yHkK1wClOvlP9Wv' //group whatsapp
 global.sdc = '-' //discord
 global.snh = '-' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '-' //dana
-global.povo = '-' //ovo
-global.pgopay = '-' //gopay
+global.pdana = '085860449573 //dana
+global.povo = '085721920138' //ovo
+global.pgopay = '085860449573' //gopay
 global.plinkaja = '-' //link aja
 global.ppulsa = '-' //telkomsel
-global.ppulsa2 = '-' // kalau ada kartu lain isi aja
+global.ppulsa2 = '083194472605' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
@@ -59,9 +59,9 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 /*============== STAFF ==============*/
 global.owner = [
   ['6285721920138', 'Ari Rpn', true],
-  ['-', '-', true],
-  ['-', '-', true],
-  ['-', '-', true] //Ganti jd nomormu sama Namamu
+  ['-', 'Manusia Biasa Team', true],
+  ['-', 'Vernest Team', true],
+  ['-', 'Phantomsec1337', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
